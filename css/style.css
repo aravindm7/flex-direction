@@ -1,0 +1,101 @@
+
+ .box{
+	 background-color: gray;
+	 border: 2px  solid #5b1fc5;
+ }
+ 
+ .ara{
+	 display: flex;
+	 flex-direction: row;
+	  
+ }
+ 
+ .ara2{
+	 display: flex;
+	 flex-direction: column;
+	  
+ }
+ .ara3{
+	 display: flex;
+	 flex-direction: row-reverse;
+	  
+ }
+ 
+ .ara4{
+	 display: flex;
+	 flex-direction: column-reverse;
+	  
+ }
+ .box1{
+	 background-color: red;
+	 border: 2px  solid #03A9F4;
+	 width: 50%;
+ }
+ 
+ .vijay1{
+	 display: flex;
+	 flex-wrap: wrap;
+	  
+ }
+ .vijay2{
+	 display: flex;
+	 flex-wrap: nowrap;
+	  
+ }
+ .vijay3{
+	 display: flex;
+	 flex-wrap: wrap-reverse;
+	  
+ }
+ 
+ .box2{
+	 background-color: orange;
+	 border: 2px  solid #795548;
+	 
+ }
+ 
+ .sub1{
+	 display: flex;
+	 justify-content: flex-start;
+	  
+ }
+ .sub2{
+	 display: flex;
+	  justify-content: flex-end;
+	  
+ }
+ .sub3{
+	 display: flex;
+	 justify-content: center;
+	  
+ }
+ 
+ .sabari1{
+	 display: flex;
+	  justify-content: space-between;
+	  
+ }
+ 
+ .sabari2{
+	 display: flex;
+	justify-content: space-around;
+	  
+ }
+ .sabari3{
+	 display: flex;
+	justify-content: space-evenly;
+	  
+ }
+ h3{
+	     text-decoration: wavy;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+	    color: blue;
+ }
+ h1{
+	  text-decoration-line: underline;
+    text-decoration-color: brown;
+  text-decoration-thickness: 3px;
+  color: forestgreen;
+ }
